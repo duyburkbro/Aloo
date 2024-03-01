@@ -1,0 +1,77 @@
+[
+	{
+		"name": "lữ bố",
+		"img": "https://i.imgur.com/cuhpsWo.jpg",
+		"money": 2800
+	},
+	{
+		"name": "quillen",
+		"img": "https://i.imgur.com/ClM0ypI.jpg",
+		"money": 1800
+	},
+	{
+		"name": "butterfly",
+		"img": "https://i.imgur.com/vpJuyfx.jpg",
+		"money": 1800
+	},
+	{
+		"name": "ngộ không",
+		"img": "https://i.imgur.com/CQUMNX7.jpg",
+		"money": 2800
+	},
+	{
+		"name": "enzo",
+		"img": "https://i.imgur.com/JISvrbD.jpg",
+		"money": 1800
+	},
+	{
+		"name": "keera",
+		"img": "https://i.imgur.com/53WMp1V.jpg",
+		"money": 1800
+	},
+	{
+		"name": "sinestrea",
+		"img": "https://i.imgur.com/9vBXyoZ.jpg",
+		"money": 1800
+	},
+	{
+		"name": "paine",
+		"img": "https://i.imgur.com/nxxpaY2.jpg",
+		"money": 1800
+	},
+	{
+		"name": "murad",
+		"img": "https://i.imgur.com/rgAnfJT.jpg",
+		"money": 1800
+	},
+	{
+		"name": "nakroth",
+		"img": "https://i.imgur.com/byJ7poM.jpg",
+		"money": 1800
+	},
+	{
+		"name": "kriknak",
+		"img": "https://i.imgur.com/7ieLzW3.jpg",
+		"money": 1800
+	}, 
+	{
+		"name": "raz",
+		"img": "https://i.imgur.com/HqvMqnh.jpg",
+		"money": 1800
+	}, 
+	{
+		"name": "batman",
+		"img": "https://i.imgur.com/KEs6ZMh.jpg",
+		"money": 2800
+	},
+	{
+		"name": "zill",
+		"img": "https://i.imgur.com/AY1MIbU.jpg",
+		"money": 1800
+	},
+	{
+		"name": "the flash",
+		"img": "https://i.imgur.com/1F6ftpi.jpg",
+		"money": 2800
+	}
+]
